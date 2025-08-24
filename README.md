@@ -1,5 +1,7 @@
 # Monitoring
 
+Crediting user @nelson-lojo for work on the Terraform code (this is a copied and sanitized version of private icsi-it repo).
+
 Using Terraform + DataDog to monitor Example Org's IT infrastructure (observability-as-code).
 
 Alert the [Org StatusPage](https://example.statuspage.io/) on errors involving more than 10 minutes of site downtime.
